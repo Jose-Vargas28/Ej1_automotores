@@ -1,1 +1,2 @@
 # Ej1_automotores
+Automotores “Chevrolet” desea colocar sensores para detectar fugas de gas y que mande alertas respectivas. En ese sentido, se desea programar un sensor de gas para un Arduino, la tarea consiste en que el sensor obtenga la información de 3 talleres mecánicos y que contabilice si existe fuga de gas. En el que, si el número de talleres es mayor a 1 se debe mandar un correo al usuario alertando de la novedad, caso contrario no se realizará ninguna acción.
